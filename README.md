@@ -1,6 +1,6 @@
 # Qurbani-management-using-flat-file-system
 
-The database has been handled using pure flat file system 
+The database has been handled using pure flat file system in C++
 
 Different design patterns have been implemented 
  --> Observer pattern 
